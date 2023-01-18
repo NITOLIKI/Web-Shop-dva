@@ -8,7 +8,10 @@
     ".NETCoreApp,Version=v7.0": {
       "WebShop/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
+          "Database": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.1",
+          "Services": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {

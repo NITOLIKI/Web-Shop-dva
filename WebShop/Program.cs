@@ -1,3 +1,4 @@
+using Core.Repositories;
 
 namespace WebShop
 {
@@ -8,6 +9,7 @@ namespace WebShop
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddSingleton<IProductRepository, IProductRepository>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
