@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Luka.Nikolic.praksa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luka.Nikolic.praksa\\AppData\\Roaming\\NuGet\\NuGet.Config",

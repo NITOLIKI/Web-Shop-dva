@@ -519,11 +519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\WebShop\\WebShop.csproj",
+      "projectUniqueName": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\WebShop\\WebShop.csproj",
       "projectName": "WebShop",
-      "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\WebShop\\WebShop.csproj",
+      "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\WebShop\\WebShop.csproj",
       "packagesPath": "C:\\Users\\Luka.Nikolic.praksa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\WebShop\\obj\\",
+      "outputPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\WebShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luka.Nikolic.praksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -540,14 +540,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Core\\Core.csproj"
+            "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Core\\Core.csproj"
             },
-            "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Database\\Database.csproj": {
-              "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Database\\Database.csproj"
+            "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Database\\Database.csproj": {
+              "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Database\\Database.csproj"
             },
-            "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Services\\Services.csproj"
+            "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Services\\Services.csproj"
             }
           }
         }

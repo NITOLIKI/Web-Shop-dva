@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uiFb9Mzhcl415IN+1u+vR7b4Afgzp4DepH+gGKpFrK4aQac2Thc+EFJ7+UWTRSzPEei/d6L1lgcWl/rC/WkOlw==",
+  "dgSpecHash": "dd8to2hWfM+HxkVXIquoSF2SVzVS1HGfmd64rY9zdyfasZ9AR4+hWbyPlFCrkxPzvbVQmT8SL95LsCG+b8bHUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

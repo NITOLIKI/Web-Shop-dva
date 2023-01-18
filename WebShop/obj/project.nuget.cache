@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+nlOsJJP9o7seFJk0it+j0KKXiYITi4EPSiaUVJPvddj9PsCRYgYZDAkSB9GfWJ+mCJxztiJ/wcq93+VXCbHMg==",
+  "dgSpecHash": "fRtUirLRVOAjULpVILd9ok96AV5C24mMDJsqUrccKTq3guDHrYPROhs4yU0LyuC5z0VNTcoruTGsT6mD9MVB3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\APS.NET\\WebShop\\WebShop\\WebShop.csproj",
+  "projectFilePath": "C:\\Users\\Luka.Nikolic.praksa\\Desktop\\WebShop\\WebShop\\WebShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luka.Nikolic.praksa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\Luka.Nikolic.praksa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
